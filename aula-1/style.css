@@ -1,0 +1,31 @@
+.bg_orange{
+    background-color: #ff0000;
+}
+.bg_green{
+    background-color: #9677dd;
+}
+.w_h_500{
+    width: 500px;
+    height: 500px;
+}
+.w_h_250{
+    width: 250px;
+    height: 250px;
+}
+p{
+    color: black;
+    background-color: rgb(239, 255, 20);
+    font-size: 8px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+#div_2{
+    background-color: rgb(24, 219, 17);
+    width: 50%; 
+    height: 50vh;
+}
+#div_2_1{
+    width: 75vh; 
+    height: 50%; 
+    background-color: rgb(148, 121, 0);
+}
